@@ -647,9 +647,7 @@
             "Scientific": 50
         },
         "uniques": [
-            "[+25]% Great Person generation [in all cities]",
-            "Only available <before adopting [Autocracy]>",
-            "Only available <before adopting [Order]>"
+            "[+25]% Great Person generation [in all cities]"
         ],
         "policies": [
             {
@@ -710,9 +708,7 @@
         },
         "uniques": [
             "[-33]% maintenance costs <for [All] units>",
-            "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
-            "Only available <before adopting [Order]>",
-            "Only available <before adopting [Freedom]>"
+            "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately"
         ],
         "policies": [
             {
@@ -777,8 +773,6 @@
         },
         "uniques": [
             "[+1 Happiness] [in all cities]",
-            "Only available <before adopting [Autocracy]>",
-            "Only available <before adopting [Freedom]>"
         ],
         "policies": [
             {
@@ -848,8 +842,6 @@
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
-            "Only available <before adopting [Autocracy]>",
-            "Only available <before adopting [Order]>"
         ],
         "policies": [
 		
@@ -951,9 +943,7 @@
             "Scientific": 0
         },
         "uniques": [
-            "[-50]% maintenance costs <for [All] units>",
-            "Only available <before adopting [Order]>",
-            "Only available <before adopting [Freedom]>"
+            "[-50]% maintenance costs <for [All] units>"
         ],
         "policies": [
             {
@@ -1065,8 +1055,6 @@
         },
         "uniques": [
             "[+1 Happiness] [in all cities]",
-            "Only available <before adopting [Autocracy]>",
-            "Only available <before adopting [Freedom]>"
         ],
         "policies": [
              {
